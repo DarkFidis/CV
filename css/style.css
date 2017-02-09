@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('fonts/OpenSans/OpenSans-Regular-webfont.eot');
+    src: url('fonts/OpenSans/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans/OpenSans-Regular-webfont.woff') format('woff'),
+         url('fonts/OpenSans/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*
+{
+	font-family:'open_sansregular';
+
+}
+
+img
+{
+position:absolute;
+}
+
+
+.flex
+{
+	display:flex;
+}
+
+.lisere
+{
+	width:20%;
+}
+
+.corps
+{
+	width:65%;
+}
+
+#photo
+{
+	background-color:#d6cfcc;
+	height:200px;
+}
+
+#formation
+{
+	background-color:#404040;
+}
+
+#photo a
+{
+	margin:auto;
+}
+
+#presentation
+{
+	justify-content:space-between;
+	border-bottom: solid black 4px;
+}
+
+#formation p
+{
+	color:#e9e5e4;
+}
+
+#formation h3
+{
+	color:#e9e5e4;
+}
+
+#formation em
+{
+	color:#b6aaa6;
+}
+
+#formation a
+{
+	color:rgba(120, 220, 240, 0.8);
+}
+
+#formation a:hover
+{
+	color:rgba(160, 240, 120, 0.8);
+}
+
+#formation a:visited
+{
+	color:rgba(120, 120, 240, 0.8);
+}
+
+#formation ul
+{
+	color:#b6aaa6;
+}
+
+ul
+{
+	list-style-type:none;
+}
+
+#space
+{
+width:15%;
+}
+
+#ExpPro em
+{
+color:#8f807c;
+}
+
+#ExpPro a
+{
+	color:#28641E;
+}
+
+#ExpPro a:hover
+{
+	color:#439ECC;
+}
+
+#ExpPro a:visited
+{
+	color:#1E4B64;
+}
+
+#certh
+{
+
+}
+.fmod:hover
+{
+	color:rgba(160, 240, 120, 0.8);
+}
+
+.fmod:visited
+{
+	color:rgba(120, 120, 240, 0.8);
+}
